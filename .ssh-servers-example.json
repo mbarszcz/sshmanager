@@ -1,0 +1,14 @@
+[
+  {
+    "name": "First server",
+    "user": "ubuntu",
+    "host": "firstserver.example.com",
+    "port": 22
+  },
+  {
+    "name": "Second server",
+    "user": "john",
+    "host": "secondserver.example.com",
+    "port": 5022
+  }
+]
